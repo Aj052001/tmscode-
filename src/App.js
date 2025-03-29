@@ -1,14 +1,13 @@
 
 import './App.css';
-import Navbar from './Navbar'
-import About from './About'
+
+import Navbar from './Navbar';
 
 function App() {
   return (
 
     <>
     <Navbar/>
-    <About/>
   
 
 <h1>Tms computer classes</h1>
