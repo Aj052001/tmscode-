@@ -1,13 +1,13 @@
 
 import './App.css';
 
-import Navbar from './Navbar';
+import Kartikmain from './Kartikmain';
 
 function App() {
   return (
 
     <>
-    <Navbar/>
+    <Kartikmain/>
   
 
 <h1>Tms computer classes</h1>
