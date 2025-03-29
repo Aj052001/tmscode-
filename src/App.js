@@ -1,7 +1,6 @@
 
 import './App.css';
 
-import Kartikmain from './Kartikmain';
 import Navbar from './Navbar';
 
 function App() {
@@ -9,7 +8,6 @@ function App() {
 
     <>
     <Navbar/>
-    <Kartikmain/>
   
 
 <h1>Tms computer classes</h1>
