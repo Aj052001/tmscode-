@@ -2,11 +2,13 @@
 import './App.css';
 
 import Kartikmain from './Kartikmain';
+import Navbar from './Navbar';
 
 function App() {
   return (
 
     <>
+    <Navbar/>
     <Kartikmain/>
   
 
