@@ -2,12 +2,14 @@
 import './App.css';
 
 import Navbar from './Navbar';
+import Contact from './Contact'
 
 function App() {
   return (
 
     <>
     <Navbar/>
+    <Contact/>
   
 
 <h1>Tms computer classes</h1>
